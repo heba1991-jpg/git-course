@@ -1,2 +1,2 @@
-# git-course
+# nti-course
 food
